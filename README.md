@@ -1,1 +1,1 @@
-# Java-1
+This a simple Quiz application built usinf Javascript.

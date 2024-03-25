@@ -1,0 +1,42 @@
+body{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCydJrpfJ0RbESQPBwtiUC9C8cHzF2_CG-Eak66r6fPUDOo9YiGKl18_Seb-Pl55Vw0L8&usqp=CAU);
+background-size: 45% 70%;
+background-repeat: no-repeat;
+background-position: center;
+}
+#Credentials{
+	margin-top: 30px;
+	text-align: center;
+	font-family: sans-serif;
+	color: rgb(109, 109, 109);
+	font-size: 30px;
+	font-weight: 1000;
+}
+#quiz-container {
+	font-size: 10px;
+	font-family: sans-serif;
+	color: #080808;
+	margin-left: 0px;
+}
+
+#submit {
+	font-family: sans-serif;
+	font-size: 20px;
+	background-color: rgb(122, 121, 121);
+	color: #fff;
+	border: 0px;
+	border-radius: 3px;
+	padding: 20px;
+	cursor: pointer;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+#submit:hover {
+	background-color: rgb(71, 70, 70);
+}
+#results{
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
