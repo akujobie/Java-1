@@ -1,1 +1,1 @@
-# Java-1
+This is a simple Investment application built using javascript. 
