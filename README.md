@@ -1,1 +1,1 @@
-This a simple Quiz application built usinf Javascript.
+This a simple Quiz application built using Javascript.
